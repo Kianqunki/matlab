@@ -1,0 +1,5 @@
+Name: Dong-Si, Tue-Cuong
+Email: tdong002@student.ucr.edu
+
+Code overview:
+hw2StudentNetwork and hw2LemonadeNetwork are the main scripts that construct and calibrate the clique tree

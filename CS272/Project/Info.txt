@@ -1,0 +1,16 @@
+Name: Dong-Si, Tue-Cuong
+Email: tdong002@student.ucr.edu
+
+Matlab - known data:
+Run ekf_main.m and fastslam_main.m
+
+Matlab - unknown data:
+Run ekf_main.m and fastslam_main.m
+
+Matlab - real data:
+Run ekf_main.m
+However, the process and measurement model is different, the results are completely wrong.
+
+The processed data is saved in data_set.m
+The true landmark locations are saved in beac_juan3.m
+
